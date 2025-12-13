@@ -1,1 +1,13 @@
+# 正确的 _redirects 配置（放在 Vue 项目的 public/ 目录下，构建后会到 dist/）
+# 1. 优先排除静态资源（避免 CSS/JS/图片被重定向）
+/assets/* /assets/:splat 200
+/*.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2) /:splat 200
+
+# 2. 剥离 .html（带防循环条件，仅匹配末尾有 .html 的路径）
+/:path+.html /:path 301
+
+# 3. 剥离 /index（仅匹配末尾有 /index 的路径）
+/:path+/index /:path 301
+
+# 4. Vue history 模式回退（最后兜底，避免刷新 404）
 /* /index.html 200 
