@@ -10,4 +10,4 @@
 /:path+/index /:path 301
 
 # 4. Vue history 模式回退（最后兜底，避免刷新 404）
-/* /index.html 200 
+#/* /index.html 200 
