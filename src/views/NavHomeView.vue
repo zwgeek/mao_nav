@@ -53,9 +53,6 @@
       </nav>
 
       <!-- 左侧边栏底部信息 -->
-      <div class="sidebar-footer">
-        
-      </div>
     </aside>
 
     <!-- 右侧主内容区 -->
@@ -531,7 +528,7 @@ onUnmounted(() => {
 
 /* 左侧边栏样式 */
 .sidebar {
-  width: 280px;
+  width: 235px;
   background-color: #2c3e50;
   color: white;
   padding: 0;
@@ -566,7 +563,7 @@ onUnmounted(() => {
 
 .category-nav {
   padding: 20px 0;
-  height: calc(100vh - 180px); /* 为底部留出空间 */
+  height: calc(100vh); /* 为底部留出空间 */
   overflow-y: auto;
 }
 
@@ -609,13 +606,6 @@ onUnmounted(() => {
 .category-name {
   font-size: 15px;
   font-weight: 500;
-}
-
-/* 左侧边栏底部 */
-.sidebar-footer {
-  padding: 20px;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  margin-top: auto;
 }
 
 .github-link {
@@ -952,7 +942,7 @@ onUnmounted(() => {
 
 .sites-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(235px, 1fr));
   gap: 20px;
 }
 
