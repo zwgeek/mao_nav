@@ -28,13 +28,6 @@ export const mockData = {
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
@@ -157,20 +150,6 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
-        },
-        {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
-        },
-        {
           "id": "postman",
           "name": "Postman",
           "url": "https://www.postman.com",
@@ -178,18 +157,25 @@ export const mockData = {
           "icon": "/sitelogo/www.postman.com.ico"
         },
         {
-          "id": "android-studio",
-          "name": "Android Studio",
-          "url": "https://developer.android.com/studio",
-          "description": "Android官方开发工具",
-          "icon": "/sitelogo/developer.android.com.ico"
-        },
-        {
           "id": "oracle-java",
           "name": "Oracle Java",
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "github",
+          "name": "Zone.id",
+          "url": "https://www.zone.id",
+          "description": "免费域名申请",
+          "icon": "https://www.faviconextractor.com/favicon/www.zone.id"
+        },
+        {
+          "id": "site-1765697681394",
+          "name": "DnShe",
+          "url": "https://www.dnshe.com/",
+          "description": "免费域名申请",
+          "icon": "https://www.faviconextractor.com/favicon/www.dnshe.com"
         }
       ]
     },
@@ -481,6 +467,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "一个导航🐻",
-  "_fileSha": "ea3f00cba99e7d9e1d5cb7b816f6a7836b8c233e"
+  "title": "一个导航🐻"
 }
