@@ -196,28 +196,28 @@ export const mockData = {
           "id": "site-1765712619669",
           "name": "盘搜索",
           "url": "https://pansosuo.com",
-          "description": "界面干净，没有广告，支持百度网盘，夸克网盘",
+          "description": "界面干净，没有广告，支持百度，夸克",
           "icon": "https://www.faviconextractor.com/favicon/pansosuo.com"
         },
         {
           "id": "site-1765712677447",
           "name": "小云搜索",
           "url": "https://www.yunso.net",
-          "description": "聚合性的网盘搜索网站，支持百度、阿里、夸克、迅雷、蓝奏、天翼、移动云盘搜索",
+          "description": "聚合网盘搜索，迅雷、蓝奏、天翼等",
           "icon": "https://www.faviconextractor.com/favicon/www.yunso.net"
         },
         {
           "id": "site-1765713262186",
           "name": "易搜",
           "url": "https://yiso.eu.org",
-          "description": "支持阿里、百度、夸克、迅雷网盘资源搜索，可以按文件夹、文档、视频、图片、压缩包、音频这样分类筛选",
+          "description": "聚合网盘搜索，可以分类筛选",
           "icon": "https://www.faviconextractor.com/favicon/yiso.eu.org"
         },
         {
           "id": "site-1765713115758",
           "name": "趣盘搜",
           "url": "https://pan.funletu.com",
-          "description": "夸克云搜索器，资源丰富，注意有弹窗广告！",
+          "description": "夸克云盘搜索，资源丰富，有弹窗广告！",
           "icon": "https://www.faviconextractor.com/favicon/pan.funletu.com"
         },
         {
@@ -231,21 +231,21 @@ export const mockData = {
           "id": "site-1765712993269",
           "name": "口袋云",
           "url": "https://www.woxiangsou.com",
-          "description": "支持百度、阿里、夸克云盘资源搜索，目前无广告，资源感觉较少，备选",
+          "description": "聚合云盘搜索，无广告，资源较少，备选",
           "icon": "https://hy.cdn.sohucs.com/sns_clouddisk_search/prod/favicon.ico"
         },
         {
           "id": "site-1765713591830",
           "name": "热盘搜",
           "url": "http://www.repanso.com",
-          "description": "百度云资源搜索。资源不太多，没有广告，备选",
+          "description": "百度云盘搜索。资源不多，无广告，备选",
           "icon": "https://www.faviconextractor.com/favicon/www.repanso.com"
         },
         {
           "id": "site-1765713804496",
           "name": "学搜搜",
           "url": "https://www.xuesousou.net",
-          "description": "提供百度云盘资源搜索网站，没有广告，资源不多，备选",
+          "description": "百度云盘搜索，无广告，资源不多，备选",
           "icon": "https://www.faviconextractor.com/favicon/www.xuesousou.net"
         }
       ]
