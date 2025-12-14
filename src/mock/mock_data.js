@@ -14,20 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
@@ -42,6 +28,20 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
+        {
+          "id": "site-1765710811343",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat",
+          "description": "字节旗下ai",
+          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon.png"
+        },
+        {
+          "id": "site-1765710999057",
+          "name": "元宝",
+          "url": "https://yuanbao.tencent.com/chat",
+          "description": "腾讯旗下ai",
+          "icon": "https://www.faviconextractor.com/favicon/yuanbao.tencent.com"
+        },
         {
           "id": "chatgpt",
           "name": "ChatGPT",
@@ -62,20 +62,63 @@ export const mockData = {
           "url": "https://www.midjourney.com",
           "description": "AI图像生成工具",
           "icon": "/sitelogo/www.midjourney.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 2,
+      "sites": [
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "/sitelogo/jsonformatter.org.ico"
         },
         {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "regex101",
+          "name": "Regex101",
+          "url": "https://regex101.com",
+          "description": "正则表达式测试",
+          "icon": "/sitelogo/regex101.com.ico"
         },
         {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "id": "caniuse",
+          "name": "Can I Use",
+          "url": "https://caniuse.com",
+          "description": "浏览器兼容性查询",
+          "icon": "/sitelogo/caniuse.com.ico"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1765710241902",
+          "name": "Image Compress",
+          "url": "https://compress-image.net",
+          "description": "各种图片在线压缩, 主要是ico文件",
+          "icon": "https://www.faviconextractor.com/favicon/compress-image.net"
+        },
+        {
+          "id": "site-1765710032087",
+          "name": "Remove Bg",
+          "url": "https://www.remove.bg/zh/upload",
+          "description": "去图片背景",
+          "icon": "https://www.faviconextractor.com/favicon/www.remove.bg"
+        },
+        {
+          "id": "site-1765710136153",
+          "name": "Anyconv",
+          "url": "https://anyconv.com",
+          "description": "文档转换，图片转换，各种转换等等",
+          "icon": "https://www.faviconextractor.com/favicon/anyconv.com"
         }
       ]
     },
@@ -83,7 +126,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -100,13 +143,6 @@ export const mockData = {
           "icon": "/sitelogo/vercel.com.ico"
         },
         {
-          "id": "aws",
-          "name": "AWS",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
-          "icon": "/sitelogo/aws.amazon.com.ico"
-        },
-        {
           "id": "aliyun",
           "name": "阿里云",
           "url": "https://www.aliyun.com",
@@ -114,25 +150,11 @@ export const mockData = {
           "icon": "/sitelogo/www.aliyun.com.ico"
         },
         {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "huawei-cloud",
-          "name": "华为云",
-          "url": "https://www.huaweicloud.com",
-          "description": "华为云计算服务",
-          "icon": "/sitelogo/www.huaweicloud.com.ico"
-        },
-        {
-          "id": "site-1752644060499",
-          "name": "怕死云",
-          "url": "https://www.pasyun.com/",
-          "description": "ipv6机器",
-          "icon": "/sitelogo/www.pasyun.com.ico"
+          "id": "aws",
+          "name": "AWS",
+          "url": "https://aws.amazon.com",
+          "description": "亚马逊云服务",
+          "icon": "/sitelogo/aws.amazon.com.ico"
         }
       ]
     },
@@ -140,7 +162,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -180,53 +202,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 6,
-      "sites": [
-        {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
-        },
-        {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
-        },
-        {
-          "id": "v2ex",
-          "name": "V2EX",
-          "url": "https://www.v2ex.com",
-          "description": "创意工作者社区",
-          "icon": "/sitelogo/www.v2ex.com.ico"
-        },
-        {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        }
-      ]
-    },
-    {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "figma",
@@ -255,6 +234,71 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1765710631845",
+          "name": "Iconfont",
+          "url": "https://www.iconfont.cn",
+          "description": "阿里矢量图标库",
+          "icon": "https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "name": "娱乐休闲",
+      "icon": "🎮",
+      "order": 6,
+      "sites": [
+        {
+          "id": "bilibili",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "description": "弹幕视频网站",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "zhihu",
+          "name": "知乎",
+          "url": "https://www.zhihu.com",
+          "description": "知识问答社区",
+          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 7,
+      "sites": [
+        {
+          "id": "mdn",
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web开发权威文档",
+          "icon": "/sitelogo/developer.mozilla.org.ico"
+        },
+        {
+          "id": "w3school",
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com",
+          "description": "Web技术教程",
+          "icon": "/sitelogo/www.w3schools.com.ico"
+        },
+        {
+          "id": "runoob",
+          "name": "菜鸟教程",
+          "url": "https://www.runoob.com",
+          "description": "编程技术教程",
+          "icon": "/sitelogo/www.runoob.com.ico"
+        },
+        {
+          "id": "coursera",
+          "name": "Coursera",
+          "url": "https://www.coursera.org",
+          "description": "在线课程平台",
+          "icon": "/sitelogo/www.coursera.org.ico"
         }
       ]
     },
@@ -262,7 +306,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 8,
       "sites": [
         {
           "id": "binance",
@@ -323,114 +367,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 6,
-      "sites": [
-        {
-          "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
-        },
-        {
-          "id": "w3school",
-          "name": "W3Schools",
-          "url": "https://www.w3schools.com",
-          "description": "Web技术教程",
-          "icon": "/sitelogo/www.w3schools.com.ico"
-        },
-        {
-          "id": "runoob",
-          "name": "菜鸟教程",
-          "url": "https://www.runoob.com",
-          "description": "编程技术教程",
-          "icon": "/sitelogo/www.runoob.com.ico"
-        },
-        {
-          "id": "coursera",
-          "name": "Coursera",
-          "url": "https://www.coursera.org",
-          "description": "在线课程平台",
-          "icon": "/sitelogo/www.coursera.org.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 7,
-      "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
-      "order": 8,
-      "sites": [
-        {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        },
-        {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
-        },
-        {
-          "id": "zhihu",
-          "name": "知乎",
-          "url": "https://www.zhihu.com",
-          "description": "知识问答社区",
-          "icon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='black'%3E%3Cpath d='M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.01.08-2.11 0 0 .67-.21 2.2.82A7.65 7.65 0 018 4.58c.68.003 1.36.092 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.91.08 2.11.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z'/%3E%3C/svg%3E"
-        }
-      ]
-    },
-    {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
@@ -465,8 +401,50 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "👥",
+      "order": 10,
+      "sites": [
+        {
+          "id": "stackoverflow",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "/sitelogo/stackoverflow.com.ico"
+        },
+        {
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
+          "id": "nodeseek",
+          "name": "NodeSeek",
+          "url": "https://www.nodeseek.com",
+          "description": "极客技术社区",
+          "icon": "/sitelogo/www.nodeseek.com.ico"
+        },
+        {
+          "id": "v2ex",
+          "name": "V2EX",
+          "url": "https://www.v2ex.com",
+          "description": "创意工作者社区",
+          "icon": "/sitelogo/www.v2ex.com.ico"
+        },
+        {
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
+        }
+      ]
     }
   ],
-  "title": "小熊导航🐻",
-  "_fileSha": "6ce4696d47de5f7650639a3842e2f97dbc4cc129"
+  "title": "小熊导航🐻"
 }
