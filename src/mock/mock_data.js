@@ -223,7 +223,7 @@ export const mockData = {
         {
           "id": "site-1765714355313",
           "name": "BT1207",
-          "url": "https://1207dizhi.net",
+          "url": "https://1207bt.org",
           "description": "磁力搜索神器-BT1207最新地址发布页",
           "icon": "https://www.faviconextractor.com/favicon/1207dizhi.net"
         },
