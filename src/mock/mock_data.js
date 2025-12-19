@@ -319,6 +319,13 @@ export const mockData = {
           "url": "https://tusi.cn",
           "description": "stable-diffusion模型资源库",
           "icon": "https://www.faviconextractor.com/favicon/tusi.cn"
+        },
+        {
+          "id": "site-1766115081742",
+          "name": "vllm-windows",
+          "url": "https://github.com/SystemPanic/vllm-windows",
+          "description": "官方认证的vllm windows版本",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
