@@ -326,6 +326,13 @@ export const mockData = {
           "url": "https://github.com/SystemPanic/vllm-windows",
           "description": "官方认证的vllm windows版本",
           "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1766130106284",
+          "name": "魔搭社区",
+          "url": "https://www.modelscope.cn",
+          "description": "大模型分享库",
+          "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01PRJFWt1PU8nZDGIKZ_!!6000000001843-0-tps-128-128.jpg"
         }
       ]
     },
