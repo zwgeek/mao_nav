@@ -338,16 +338,16 @@ export const mockData = {
     },
     {
       "id": "learning",
-      "name": "学习资源",
+      "name": "各类资源",
       "icon": "📚",
       "order": 7,
       "sites": [
         {
           "id": "mdn",
-          "name": "MDN Web Docs",
-          "url": "https://developer.mozilla.org",
-          "description": "Web开发权威文档",
-          "icon": "/sitelogo/developer.mozilla.org.ico"
+          "name": "Itellyou",
+          "url": "https://next.itellyou.cn",
+          "description": "纯净系统下载平台",
+          "icon": "https://www.faviconextractor.com/favicon/next.itellyou.cn"
         },
         {
           "id": "w3school",
