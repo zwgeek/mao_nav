@@ -297,6 +297,13 @@ export const mockData = {
           "url": "https://www.dnshe.com/",
           "description": "免费域名申请",
           "icon": "https://www.faviconextractor.com/favicon/www.dnshe.com"
+        },
+        {
+          "id": "site-1770793881716",
+          "name": "FreeCloud",
+          "url": "https://bento.me/freecloud",
+          "description": "纯公益机场",
+          "icon": "https://www.faviconextractor.com/favicon/bento.me"
         }
       ]
     },
