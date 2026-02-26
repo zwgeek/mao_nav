@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1772077287521",
+          "name": "WS测试",
+          "url": "https://docs.wildfirechat.cn/web/wstool/index.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/docs.wildfirechat.cn"
         }
       ]
     },
