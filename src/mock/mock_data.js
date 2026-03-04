@@ -147,6 +147,13 @@ export const mockData = {
           "url": "https://docs.wildfirechat.cn/web/wstool/index.html",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/docs.wildfirechat.cn"
+        },
+        {
+          "id": "site-1772590252083",
+          "name": "HTTP测试",
+          "url": "https://hoppscotch.io",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hoppscotch.io"
         }
       ]
     },
