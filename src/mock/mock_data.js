@@ -315,9 +315,23 @@ export const mockData = {
         {
           "id": "site-1770793881716",
           "name": "FreeCloud",
-          "url": "https://bento.me/freecloud",
+          "url": "https://www.ktffhaha.pp.ua/#/dashboard",
           "description": "纯公益机场",
           "icon": "https://www.faviconextractor.com/favicon/bento.me"
+        },
+        {
+          "id": "site-1772769789014",
+          "name": "白嫖总站",
+          "url": "https://github.com/hwanz/SSR-V2ray-Trojan-vpn",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
+        },
+        {
+          "id": "site-1772769833844",
+          "name": "白嫖订阅",
+          "url": "https://github.com/Misaka-blog/chromego_merge?tab=readme-ov-file",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
