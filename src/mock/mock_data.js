@@ -85,11 +85,18 @@ export const mockData = {
           "icon": "/sitelogo/caniuse.com.ico"
         },
         {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
+          "id": "site-1772823955013",
+          "name": "Squoosh",
+          "url": "https://squoosh.app",
+          "description": "图片本地压缩",
+          "icon": "https://www.faviconextractor.com/favicon/squoosh.app"
+        },
+        {
+          "id": "site-1772824012996",
+          "name": "SmallIm",
+          "url": "https://small.im/zh-hans",
+          "description": "图片本地批量压缩",
+          "icon": "https://www.faviconextractor.com/favicon/small.im"
         },
         {
           "id": "site-1765710241902",
