@@ -1,53 +1,10 @@
 export const mockData = {
   "categories": [
     {
-      "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1765710811343",
-          "name": "豆包",
-          "url": "https://www.doubao.com/chat",
-          "description": "字节旗下ai",
-          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon.png"
-        },
-        {
-          "id": "site-1765710999057",
-          "name": "元宝",
-          "url": "https://yuanbao.tencent.com/chat",
-          "description": "腾讯旗下ai",
-          "icon": "https://www.faviconextractor.com/favicon/yuanbao.tencent.com"
-        },
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        }
-      ]
-    },
-    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 1,
+      "order": 0,
       "sites": [
         {
           "id": "site-1765712220637",
@@ -125,7 +82,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "postman",
@@ -161,6 +118,35 @@ export const mockData = {
           "url": "https://hoppscotch.io",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hoppscotch.io"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI学习",
+      "icon": "🤖",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1774717850378",
+          "name": "Hello-Agents",
+          "url": "https://datawhalechina.github.io/hello-agents/#/",
+          "description": "Agents综合入门",
+          "icon": ""
+        },
+        {
+          "id": "site-1765710811343",
+          "name": "LangChain",
+          "url": "https://aicoding.juejin.cn/post/7618949119742132251#%E4%BA%94agent%E8%AE%A9-ai-%E8%87%AA%E4%B8%BB%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "description": "LangChain教程",
+          "icon": ""
+        },
+        {
+          "id": "site-1765710999057",
+          "name": "LangGraph",
+          "url": "https://juejin.cn/post/7579264485258854415",
+          "description": "LangGraph教程",
+          "icon": ""
         }
       ]
     },
