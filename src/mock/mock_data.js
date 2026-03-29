@@ -128,13 +128,6 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "site-1774717850378",
-          "name": "Hello-Agents",
-          "url": "https://datawhalechina.github.io/hello-agents/#/",
-          "description": "Agents综合入门",
-          "icon": ""
-        },
-        {
           "id": "site-1765710811343",
           "name": "LangChain",
           "url": "https://aicoding.juejin.cn/post/7618949119742132251#%E4%BA%94agent%E8%AE%A9-ai-%E8%87%AA%E4%B8%BB%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7",
