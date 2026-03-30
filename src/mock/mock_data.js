@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://juejin.cn/post/7579264485258854415",
           "description": "LangGraph教程",
           "icon": ""
+        },
+        {
+          "id": "site-1774892418168",
+          "name": "Learn Claude Code",
+          "url": "https://learn-claude-agents-7ndl51qqa-crazyboyms-projects.vercel.app/zh/",
+          "description": "指导精华",
+          "icon": "https://www.faviconextractor.com/favicon/learn-claude-agents-7ndl51qqa-crazyboyms-projects.vercel.app"
         }
       ]
     },
