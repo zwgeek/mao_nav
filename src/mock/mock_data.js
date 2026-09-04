@@ -85,6 +85,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/bdnb.cn"
         },
         {
+          "id": "site-1788527134396",
+          "name": "开源精选",
+          "url": "https://hellogithub.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hellogithub.com"
+        },
+        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
