@@ -78,11 +78,11 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "oracle-java",
-          "name": "Oracle Java",
-          "url": "https://www.oracle.com/java/technologies/downloads/",
-          "description": "Oracle官方Java下载",
-          "icon": "/sitelogo/www.oracle.com.ico"
+          "id": "site-1788487616122",
+          "name": "GitHub中文站",
+          "url": "https://bdnb.cn",
+          "description": "GitHub的镜像站",
+          "icon": "https://www.faviconextractor.com/favicon/bdnb.cn"
         },
         {
           "id": "curlconverter",
