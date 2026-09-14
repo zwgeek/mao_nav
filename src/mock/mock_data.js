@@ -278,6 +278,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/next.itellyou.cn"
         },
         {
+          "id": "site-1789356496031",
+          "name": "ZLibrary",
+          "url": "https://z-library.sk",
+          "description": "电子书分享与下载",
+          "icon": "https://www.faviconextractor.com/favicon/z-library.sk"
+        },
+        {
           "id": "site-1776149535624",
           "name": "AI 工具集",
           "url": "https://ai-bot.cn",
