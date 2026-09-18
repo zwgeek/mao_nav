@@ -249,6 +249,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/bento.me"
         },
         {
+          "id": "site-1789700180370",
+          "name": "Ikuuu",
+          "url": "https://ikuuu.top",
+          "description": "公益机场",
+          "icon": "https://www.faviconextractor.com/favicon/ikuuu.top"
+        },
+        {
           "id": "site-1772769789014",
           "name": "白嫖总站",
           "url": "https://github.com/hwanz/SSR-V2ray-Trojan-vpn",
