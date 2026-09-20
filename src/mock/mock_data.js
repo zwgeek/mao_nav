@@ -285,6 +285,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/next.itellyou.cn"
         },
         {
+          "id": "site-1789889172600",
+          "name": "OpenJDK",
+          "url": "https://learn.microsoft.com/zh-cn/java/openjdk/download",
+          "description": "微软版纯净下载",
+          "icon": "https://www.faviconextractor.com/favicon/learn.microsoft.com"
+        },
+        {
           "id": "site-1789356496031",
           "name": "ZLibrary",
           "url": "https://z-library.sk",
