@@ -256,6 +256,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/ikuuu.top"
         },
         {
+          "id": "site-1792312504199",
+          "name": "幽速101",
+          "url": "https://101ghost.com",
+          "description": "每月20G",
+          "icon": "https://www.faviconextractor.com/favicon/101ghost.com"
+        },
+        {
           "id": "site-1772769789014",
           "name": "白嫖总站",
           "url": "https://github.com/hwanz/SSR-V2ray-Trojan-vpn",
