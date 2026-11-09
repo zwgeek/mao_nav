@@ -251,14 +251,14 @@ export const mockData = {
         {
           "id": "site-1789700180370",
           "name": "Ikuuu",
-          "url": "https://ikuuu.top",
+          "url": "https://ikuuu.top/auth/register?code=1coU",
           "description": "公益机场",
           "icon": "https://www.faviconextractor.com/favicon/ikuuu.top"
         },
         {
           "id": "site-1792312504199",
           "name": "幽速101",
-          "url": "https://101ghost.com",
+          "url": "https://101ghost.com/#/register?code=gqjRx5QA",
           "description": "每月20G",
           "icon": "https://www.faviconextractor.com/favicon/101ghost.com"
         },
